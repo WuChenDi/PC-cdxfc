@@ -3,7 +3,7 @@
 <ul>
   
   <li>访问地址https://WuChenDi.github.io/PC-cdxfc/</li>
-  <li>学习Bootstrap前端框架所写的一个demo</li>
+  <li>学习<a href="http://getbootstrap.com/"><a/>Bootstrap前端框架所写的一个demo</li>
   <li>使用jQuery</li>
   <li>H5,CSS3等</li>
 </ul>
